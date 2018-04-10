@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>com.sap.xs2.security</groupId>
 			<artifactId>java-container-security</artifactId>
- 			<version>0.26.4</version> 
+ 			<version>0.26.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.cloudfoundry.identity</groupId>
@@ -91,6 +91,16 @@
 			<groupId>org.glassfish.jersey.connectors</groupId>
 			<artifactId>jersey-apache-connector</artifactId>
 			<version>2.25.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20160810</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.6</version>
 		</dependency>
 	</dependencies>
 	<build>

@@ -2,7 +2,7 @@
 applications:
 
 - name: connectivity-app-demo
-  host: connectivity-app-demo-philipp
+  host: connectivity-app-demo-eatu
   buildpack: java_buildpack
   memory: 512M
   instances: 1
